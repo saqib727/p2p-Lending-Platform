@@ -63,11 +63,6 @@ $ npm start
 
 Want to contribute? Great!
 
-# Authors
-
-    Milen Radkov - milenradkov@me.com
-        Email - milenradkov@me.com
-        LinkedIn - https://www.linkedin.com/in/milenradkov/
 
 # Acknowledgments
 
